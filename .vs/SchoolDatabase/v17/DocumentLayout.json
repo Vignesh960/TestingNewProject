@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|d:\\.net\\asp.net\\nzwalks\\schooldatabase\\schooldatabase\\mappings\\automappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|solutionrelative:schooldatabase\\mappings\\automappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|d:\\.net\\asp.net\\nzwalks\\schooldatabase\\schooldatabase\\models\\dtos\\feepaymentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|solutionrelative:schooldatabase\\models\\dtos\\feepaymentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|d:\\.net\\asp.net\\nzwalks\\schooldatabase\\schooldatabase\\models\\domain\\feepayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|solutionrelative:schooldatabase\\models\\domain\\feepayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|d:\\.net\\asp.net\\nzwalks\\schooldatabase\\schooldatabase\\models\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|solutionrelative:schooldatabase\\models\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|d:\\.net\\asp.net\\nzwalks\\schooldatabase\\schooldatabase\\models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|solutionrelative:schooldatabase\\models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|d:\\.net\\asp.net\\nzwalks\\schooldatabase\\schooldatabase\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|solutionrelative:schooldatabase\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|d:\\.net\\asp.net\\nzwalks\\schooldatabase\\schooldatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|solutionrelative:schooldatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|d:\\.net\\asp.net\\nzwalks\\schooldatabase\\schooldatabase\\repositories\\sqlstudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|solutionrelative:schooldatabase\\repositories\\sqlstudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|d:\\.net\\asp.net\\nzwalks\\schooldatabase\\schooldatabase\\models\\domain\\feestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|solutionrelative:schooldatabase\\models\\domain\\feestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|d:\\.net\\asp.net\\nzwalks\\schooldatabase\\schooldatabase\\models\\dtos\\addstudentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B668D998-1B55-429E-9AF0-B070D54DAD52}|SchoolDatabase\\SchoolDatabase.csproj|solutionrelative:schooldatabase\\models\\dtos\\addstudentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMappingProfiles.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Mappings\\AutoMappingProfiles.cs",
+              "RelativeDocumentMoniker": "SchoolDatabase\\Mappings\\AutoMappingProfiles.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Mappings\\AutoMappingProfiles.cs",
+              "RelativeToolTip": "SchoolDatabase\\Mappings\\AutoMappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:48:32.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeePaymentsDto.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Models\\Dtos\\FeePaymentsDto.cs",
+              "RelativeDocumentMoniker": "SchoolDatabase\\Models\\Dtos\\FeePaymentsDto.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Models\\Dtos\\FeePaymentsDto.cs",
+              "RelativeToolTip": "SchoolDatabase\\Models\\Dtos\\FeePaymentsDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:47:21.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Models\\Dtos\\StudentDto.cs",
+              "RelativeDocumentMoniker": "SchoolDatabase\\Models\\Dtos\\StudentDto.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Models\\Dtos\\StudentDto.cs",
+              "RelativeToolTip": "SchoolDatabase\\Models\\Dtos\\StudentDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA8wA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:02:57.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeePayments.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Models\\Domain\\FeePayments.cs",
+              "RelativeDocumentMoniker": "SchoolDatabase\\Models\\Domain\\FeePayments.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Models\\Domain\\FeePayments.cs",
+              "RelativeToolTip": "SchoolDatabase\\Models\\Domain\\FeePayments.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAzwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:47:48.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Models\\Domain\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolDatabase\\Models\\Domain\\Student.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Models\\Domain\\Student.cs",
+              "RelativeToolTip": "SchoolDatabase\\Models\\Domain\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:45:21.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLStudentRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Repositories\\SQLStudentRepository.cs",
+              "RelativeDocumentMoniker": "SchoolDatabase\\Repositories\\SQLStudentRepository.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Repositories\\SQLStudentRepository.cs",
+              "RelativeToolTip": "SchoolDatabase\\Repositories\\SQLStudentRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAhwBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:12:39.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "SchoolDatabase\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "SchoolDatabase\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwB0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:37:17.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolDatabase\\Program.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Program.cs",
+              "RelativeToolTip": "SchoolDatabase\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:34:37.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Feestructure.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Models\\Domain\\Feestructure.cs",
+              "RelativeDocumentMoniker": "SchoolDatabase\\Models\\Domain\\Feestructure.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Models\\Domain\\Feestructure.cs",
+              "RelativeToolTip": "SchoolDatabase\\Models\\Domain\\Feestructure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:46:10.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddStudentRequestDto.cs",
+              "DocumentMoniker": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Models\\Dtos\\AddStudentRequestDto.cs",
+              "RelativeDocumentMoniker": "SchoolDatabase\\Models\\Dtos\\AddStudentRequestDto.cs",
+              "ToolTip": "D:\\.NET\\ASP.NET\\NZWalks\\SchoolDatabase\\SchoolDatabase\\Models\\Dtos\\AddStudentRequestDto.cs",
+              "RelativeToolTip": "SchoolDatabase\\Models\\Dtos\\AddStudentRequestDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:45:58.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
